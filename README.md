@@ -15,7 +15,7 @@ The dataset used in this project is sourced from publicly available retail data 
 - **Price**
 - **Country**
 
-The dataset can be downloaded from [this link] https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
+The dataset can be downloaded from [this link] ([ https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset])
 ## Usage
 1. Download the dataset and place it in the project folder.
 2. Open and run the Jupyter Notebook `Retail_Analysis_EDA.ipynb`.
